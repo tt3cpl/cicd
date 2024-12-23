@@ -1,0 +1,21 @@
+{
+    "name": "your-project-name",
+    "version": "1.0.0",
+    "description": "A sample Node.js project for CI/CD",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Running tests...\" && exit 0",
+      "build": "echo \"Building project...\"",
+      "deploy": "echo \"Deploying project...\""
+    },
+    "dependencies": {
+      "express": "^4.17.1"
+    },
+    "devDependencies": {
+      "jest": "^27.0.0"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+  }
+  
